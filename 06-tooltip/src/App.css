@@ -1,0 +1,12 @@
+.App{
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.App p{
+  max-width: 400px;
+
+}
